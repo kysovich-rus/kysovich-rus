@@ -16,7 +16,10 @@ Here are some ideas to get you started:
 -->
 
 
-https://www.codewars.com/users/Kysovich/badges/large
+![](https://www.codewars.com/users/Kysovich/badges/large)
 
 Telegram: http://t.me/FiftyNineHertz
+
 Резюме: https://kysovich-rus.github.io
+
+
