@@ -1,5 +1,3 @@
-### Доброго времени суток! 👋
-
 <!--
 **kysovich-rus/kysovich-rus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -20,7 +18,7 @@ Here are some ideas to get you started:
 
 Telegram: http://t.me/FiftyNineHertz
 
-Резюме: https://kysovich-rus.github.io
+Резюме: https://kysovich-rus.github.io/cv
 
 
 ![catroll](https://user-images.githubusercontent.com/70809854/194720702-fe11a789-c6b5-40d3-8621-cbdb9fdd3df6.gif)
