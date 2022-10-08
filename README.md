@@ -1,4 +1,4 @@
-### Hi there 👋
+### Доброго времени суток! 👋
 
 <!--
 **kysovich-rus/kysovich-rus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+https://www.codewars.com/users/Kysovich/badges/large
+
+Telegram: http://t.me/FiftyNineHertz
+Резюме: https://kysovich-rus.github.io
